@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndoridJavaEx</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="submit">Submit</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="generate_quote">Generate Quote</string>
+
+
+    <string-array name="tamil_quotes">
+        <item>முளையில் கிள்ளாதது முற்றினால், கோடாலிகொண்டு வெட்ட வேண்டும் .</item>
+        <item>கேட்டதெல்லாம் நம்பாதே? நம்பியதெல்லாம் சொல்லாதே?</item>
+        <item>சொல்வல்லவனை வெல்லல் அரிது.</item>
+        <item>எளியவன் பெண்டாட்டி எல்லோருக்கும் மைத்துனி.</item>
+        <item>இந்தக் கூழுக்கா இருபத்தெட்டு நாமம்!</item>
+        <item>நுணலும் தன் வாயால் கெடும்.</item>
+        <item>கட்டிக்கொடுத்த சோறும் கற்றுக்கொடுத்த சொல்லும் எத்தனை நாள் நிற்கும்.</item>
+        <item>கொடுக்கிறவனைக் கண்டால் வாங்குகிறவனுக்கு இளக்காரம்.</item>
+        <item>உழக்கு மிளகு கொடுப்பானேன் , ஒளிந்திருந்து மிளகு சாரு குடிப்பானேன் ?</item>
+        <item>கழுதைக்குப் பரதேசம் குட்டிச்சுவர்.</item>
+    </string-array>
+</resources>
